@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+h5 {
+    font-weight: 100;
+}
+
+main p {
+    color: #707070;
+    font-size: small;
+}
+
+.card-body p {
+    margin-bottom: 0;
+}
+form legend {
+    color: white;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
